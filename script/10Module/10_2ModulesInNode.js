@@ -1,4 +1,5 @@
 // Note: this file is written in Node.js instead of original JavaScript.
+// So if you want to run this file, use 'node .\10_2ModulesInNode.js'
 
 // 1.Node Exports 
 const sum = (x, y) => x + y;
